@@ -1,6 +1,5 @@
 import React, { useContext } from "react";
 
-import sourceIcon from "../../assets/icon-source.svg";
 
 import { DataToDisplay } from "../Mains";
 
